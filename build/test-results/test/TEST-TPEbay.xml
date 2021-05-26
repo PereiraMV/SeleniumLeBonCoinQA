@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TPEbay" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-26T10:28:22" hostname="DESKTOP-5L7N2A8" time="5.585">
+  <properties/>
+  <testcase name="testEbay" classname="TPEbay" time="5.585"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}) on port 38890
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+mai 26, 2021 12:28:20 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFOS: Detected dialect: W3C
+]]></system-err>
+</testsuite>
