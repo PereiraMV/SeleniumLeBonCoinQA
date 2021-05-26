@@ -1,4 +1,0 @@
-TP6_ExplicitWait.java
- TP6_ExplicitWait
-TPEbay.java
- TPEbay
